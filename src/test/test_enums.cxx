@@ -1,4 +1,4 @@
-// $Header: /nfs/slac/g/glast/ground/cvs/idents/src/test/test_idents.cxx,v 1.7 2004/10/21 18:24:15 heather Exp $
+// $Header: /nfs/slac/g/glast/ground/cvs/enums/src/test/test_enums.cxx,v 1.1.1.1 2005/02/17 01:54:47 heather Exp $
 
 
 #include "enums/GemConditionSummary.h"
@@ -25,7 +25,8 @@ int main()
     std::cout << "Test Low CAL bit " << (m_triggerWord & enums::b_LO_CAL) << " "
         << "Test Hi CAL bit " << (m_triggerWord & enums::b_HI_CAL) << std::endl;
     std::cout << "Test ACD CNO bit " << (m_triggerWord & enums::b_ACDH) << " "
-        << "Test Ritz Throttle bit " << (m_triggerWord & enums::b_THROTTLE) << std::endl << std::endl;
+              << std::endl << std::endl;
+        //<< "Test Ritz Throttle bit " << (m_triggerWord & enums::b_THROTTLE) << std::endl << std::endl;
 
     std::cout << "Gem Condition Summary Bits" << std::endl;
     std::cout << "Test ROI bit " << (m_gemCondSummary & enums::ROI) << " "
