@@ -1,5 +1,5 @@
 package enums
-version v0em0
+version v0em1
 
 use GlastPolicy v*
 
@@ -8,4 +8,4 @@ apply_pattern package_headers
 #apply_pattern package_linkopts
 
 private
-application test_enum test/test_enums.cxx ${enums_headers}
+application test_enums test/test_enums.cxx ${enums_headers}
