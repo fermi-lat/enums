@@ -1,0 +1,25 @@
+------------------------------------------------------------
+User: heather  Wed Feb 16 17:54:47 PST 2005
+enums
+
+Log Message:
+initial import of enums
+
+Status:
+
+Vendor Tag:	GLAST
+Release Tags:	v0
+		
+N enums/.cvsignore
+N enums/cmt/.cvsignore
+N enums/cmt/requirements
+N enums/doc/release.notes
+N enums/enums/EventFlags.h
+N enums/enums/GemConditionSummary.h
+N enums/enums/TriggerBits.h
+N enums/src/mainpage.h
+N enums/src/test/test_enums.cxx
+
+No conflicts created by this import
+
+    *
