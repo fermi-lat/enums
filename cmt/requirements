@@ -1,12 +1,12 @@
 package enums
-version v0r1p1
+version v0r2
 
 use GlastPolicy v*
-# $Id$
+# $Id: requirements,v 1.3 2005/03/19 19:06:48 burnett Exp $
 
 apply_pattern package_include
 apply_pattern package_headers
 #apply_pattern package_linkopts
 
 private
-application test_enum test/test_enums.cxx ${enums_headers}
+application test_enums test/test_enums.cxx ${enums_headers}
