@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: lsrea  Thu Mar 31 11:04:35 PST 2005
+enums/enums
+
+Modified Files:
+	TriggerBits.h 
+Log Message:
+Add GEM_mask to TriggerBits.h, and associated stuff
+
+    *
+------------------------------------------------------------
+User: lsrea  Thu Mar 31 11:04:35 PST 2005
 enums/doc
 
 Modified Files:
