@@ -1,4 +1,21 @@
 ------------------------------------------------------------
+TAG
+Tag name: GlastRelease-v6r1p2, operation: add
+Package: enums
+User: heather  Tue Feb 22 20:57:11 2005
+Files:
+  enums/.cvsignore  1.1.1.1
+  enums/cmt/.cvsignore  1.1.1.1
+  enums/cmt/requirements  1.1.1.1
+  enums/doc/release.notes  1.1.1.1
+  enums/enums/EventFlags.h  1.1.1.1
+  enums/enums/TriggerBits.h  1.1.1.1
+  enums/enums/GemConditionSummary.h  1.1.1.1
+  enums/src/mainpage.h  1.1.1.1
+  enums/src/test/test_enums.cxx  1.1.1.1
+
+    *
+------------------------------------------------------------
 User: heather  Wed Feb 16 17:54:47 PST 2005
 enums
 
