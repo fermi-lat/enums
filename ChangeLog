@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: burnett  Sat Mar 19 11:06:49 PST 2005
+enums/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+fix up mainpage to provide links to the bit definitions
+    *
+------------------------------------------------------------
+User: burnett  Sat Mar 19 11:06:49 PST 2005
 enums/cmt
 
 Modified Files:
