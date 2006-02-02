@@ -1,4 +1,23 @@
 ------------------------------------------------------------
+TAG
+Tag name: v0r3, operation: add
+Package: enums
+User: echarles  Wed Feb  1 16:23:32 2006
+Files:
+  enums/.cvsignore  1.1.1.1
+  enums/ChangeLog  1.26
+  enums/cmt/.cvsignore  1.1.1.1
+  enums/cmt/requirements  1.5
+  enums/doc/release.notes  1.6
+  enums/enums/EventFlags.h  1.2
+  enums/enums/TriggerBits.h  1.2
+  enums/enums/Lsf.h  1.1
+  enums/enums/GemConditionSummary.h  1.1.1.1
+  enums/src/mainpage.h  1.2
+  enums/src/test/test_enums.cxx  1.2
+
+    *
+------------------------------------------------------------
 User: echarles  Wed Feb  1 16:21:39 PST 2006
 enums/enums
 
