@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: echarles  Wed Feb  1 16:21:37 PST 2006
+enums/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+01-Feb-2006 EAC Add Lsf.h for Lsf enums.
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r2p1, operation: add
 Package: enums
