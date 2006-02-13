@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: echarles  Mon Feb 13 11:07:56 PST 2006
+enums/enums
+
+Modified Files:
+	Lsf.h 
+Log Message:
+Added sentinel values to catch undefined states to Lsf.h.  Improved comments.
+    *
+------------------------------------------------------------
 User: echarles  Mon Feb 13 11:07:55 PST 2006
 enums/doc
 
