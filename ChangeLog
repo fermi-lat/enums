@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Tue Apr  4 11:00:23 PDT 2006
+enums/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+add Masks enum in Lsf.h
+    *
+------------------------------------------------------------
+User: heather  Tue Apr  4 11:00:23 PDT 2006
 enums/cmt
 
 Modified Files:
