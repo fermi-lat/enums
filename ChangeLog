@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Sun Apr 16 00:06:16 PDT 2006
+enums/enums
+
+Modified Files:
+	EventFlags.h 
+Log Message:
+add flag for LDF status
+    *
+------------------------------------------------------------
+User: heather  Sun Apr 16 00:06:16 PDT 2006
 enums/doc
 
 Modified Files:
