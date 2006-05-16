@@ -1,9 +1,9 @@
 package enums
-version v0r4
+version v0r5
 author Heather Kelly <heather@milkyway.gsfc.nasa.gov>
 
 use GlastPolicy v*
-# $Id: requirements,v 1.6 2006/04/04 18:00:22 heather Exp $
+# $Id: requirements,v 1.7 2006/04/16 07:06:15 heather Exp $
 
 apply_pattern package_include
 apply_pattern package_headers
