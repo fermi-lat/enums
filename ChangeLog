@@ -1,4 +1,24 @@
 ------------------------------------------------------------
+TAG
+Tag name: v0r6, operation: add
+Package: enums
+User: heather  Tue May 16 23:05:42 2006
+Files:
+  enums/.cvsignore  1.1.1.1
+  enums/ChangeLog  1.50
+  enums/cmt/.cvsignore  1.1.1.1
+  enums/cmt/requirements  1.9
+  enums/doc/release.notes  1.12
+  enums/enums/EventFlags.h  1.4
+  enums/enums/DetectorConstants.h  1.1
+  enums/enums/TriggerBits.h  1.2
+  enums/enums/Lsf.h  1.4
+  enums/enums/GemConditionSummary.h  1.1.1.1
+  enums/src/mainpage.h  1.2
+  enums/src/test/test_enums.cxx  1.2
+
+    *
+------------------------------------------------------------
 User: heather  Tue May 16 23:05:31 PDT 2006
 enums/doc
 
