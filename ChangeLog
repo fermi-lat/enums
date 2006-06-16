@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Fri Jun 16 12:18:51 PDT 2006
+enums/enums
+
+Modified Files:
+	EventFlags.h 
+Log Message:
+add flag for missing cal readouts in allrange
+    *
+------------------------------------------------------------
+User: heather  Fri Jun 16 12:18:51 PDT 2006
 enums/doc
 
 Modified Files:
