@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jun 16 12:18:51 PDT 2006
+enums/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+add flag for missing cal readouts in allrange
+    *
+------------------------------------------------------------
 User: heather  Fri Jun 16 12:18:50 PDT 2006
 enums/cmt
 
