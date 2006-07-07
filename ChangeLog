@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Fri Jul  7 09:47:29 PDT 2006
+enums/enums
+
+Modified Files:
+	Lsf.h 
+Log Message:
+added EMPTY_EVENT and STROBE flags in Lsf.h to match DFI V3-4-1
+    *
+------------------------------------------------------------
+User: blee  Fri Jul  7 09:47:29 PDT 2006
 enums/doc
 
 Modified Files:
