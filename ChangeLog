@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Thu Oct 19 11:08:43 PDT 2006
+enums/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+add LDFWARNING flag to event flags
+    *
+------------------------------------------------------------
+User: heather  Thu Oct 19 11:08:43 PDT 2006
 enums/cmt
 
 Modified Files:
