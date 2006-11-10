@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: burnett  Fri Nov 10 13:53:45 PST 2006
+enums/enums
+
+Modified Files:
+	TriggerBits.h 
+Log Message:
+add trigger bit definition
+    *
+------------------------------------------------------------
+User: burnett  Fri Nov 10 13:53:45 PST 2006
 enums/doc
 
 Modified Files:
