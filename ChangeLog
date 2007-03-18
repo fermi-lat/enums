@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: burnett  Sun Mar 18 09:27:29 PDT 2007
+enums/enums
+
+Modified Files:
+	TriggerBits.h 
+Log Message:
+move acdl bit to 64; tagging
+    *
+------------------------------------------------------------
+User: burnett  Sun Mar 18 09:27:29 PDT 2007
 enums/doc
 
 Modified Files:
