@@ -1,13 +1,4 @@
 ------------------------------------------------------------
-User: burnett  Sun Mar 18 09:27:28 PDT 2007
-enums/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-move acdl bit to 64; tagging
-    *
-------------------------------------------------------------
 TAG
 Tag name: v0r11, operation: add
 Package: enums
