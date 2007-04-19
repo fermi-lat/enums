@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Wed Apr 18 20:24:53 PDT 2007
+enums/enums
+
+Modified Files:
+	Lsf.h 
+Log Message:
+add new Lsf enum for translated-keys type
+    *
+------------------------------------------------------------
+User: blee  Wed Apr 18 20:24:53 PDT 2007
 enums/doc
 
 Modified Files:
