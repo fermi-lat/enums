@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Wed Apr 18 20:24:53 PDT 2007
+enums/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+add new Lsf enum for translated-keys type
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r12, operation: add
 Package: enums
