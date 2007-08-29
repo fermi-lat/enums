@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Wed Aug 29 05:18:33 PDT 2007
+enums/enums
+
+Modified Files:
+	TriggerBits.h 
+Log Message:
+new bits for trigger engines
+    *
+------------------------------------------------------------
+User: heather  Wed Aug 29 05:18:33 PDT 2007
 enums/cmt
 
 Modified Files:
