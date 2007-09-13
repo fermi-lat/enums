@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: usher  Thu Sep 13 07:50:35 PDT 2007
+enums/enums
+
+Modified Files:
+	EfcGammaStatus.h 
+Added Files:
+	XfcDFCStatus.h XfcHFCStatus.h XfcMipStatus.h 
+Log Message:
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r14, operation: add
 Package: enums
