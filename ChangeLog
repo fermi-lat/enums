@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Sat Oct 20 14:54:16 PDT 2007
+enums/enums
+
+Modified Files:
+	TriggerBits.h 
+Log Message:
+removed non-trigger bit ACDL
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r15, operation: add
 Package: enums
