@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Mon Oct 22 19:04:48 PDT 2007
+enums/enums
+
+Modified Files:
+	Lsf.h 
+Log Message:
+include ULL for rhel4 long long constant
+    *
+------------------------------------------------------------
+User: heather  Mon Oct 22 19:04:48 PDT 2007
 enums/doc
 
 Modified Files:
