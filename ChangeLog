@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: kocian  Fri Nov  2 11:59:37 PDT 2007
+enums/enums
+
+Added Files:
+	GemState.h 
+Log Message:
+GEM states
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r15p1, operation: add
 Package: enums
