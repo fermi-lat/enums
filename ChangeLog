@@ -1,4 +1,29 @@
 ------------------------------------------------------------
+TAG
+Tag name: v0r16p1, operation: add
+Package: enums
+User: heather  Sun Nov  4 18:52:44 2007
+Files:
+  enums/.cvsignore  1.1.1.1
+  enums/ChangeLog  1.103
+  enums/cmt/.cvsignore  1.1.1.1
+  enums/cmt/requirements  1.21
+  enums/doc/release.notes  1.23
+  enums/enums/EventFlags.h  1.6
+  enums/enums/EfcGammaStatus.h  1.2
+  enums/enums/XfcHFCStatus.h  1.1
+  enums/enums/XfcMipStatus.h  1.1
+  enums/enums/GemConditionSummary.h  1.1.1.1
+  enums/enums/DetectorConstants.h  1.1
+  enums/enums/Lsf.h  1.8
+  enums/enums/TriggerBits.h  1.6
+  enums/enums/GemState.h  1.1
+  enums/enums/XfcDFCStatus.h  1.1
+  enums/src/mainpage.h  1.2
+  enums/src/test/test_enums.cxx  1.3
+
+    *
+------------------------------------------------------------
 User: heather  Sun Nov  4 18:41:58 PST 2007
 enums/src/test
 
