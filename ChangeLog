@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Sun Nov  4 18:41:58 PST 2007
+enums/src/test
+
+Modified Files:
+	test_enums.cxx 
+Log Message:
+patch unit test
+    *
+------------------------------------------------------------
+User: heather  Sun Nov  4 18:41:58 PST 2007
 enums/doc
 
 Modified Files:
