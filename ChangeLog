@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sat Mar 22 21:45:23 PDT 2008
+enums/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+replace MISSING_GPS_MASK with SOURCE_GPS_MASK
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r16p1, operation: add
 Package: enums
