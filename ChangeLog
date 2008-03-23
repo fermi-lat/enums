@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Sat Mar 22 21:45:23 PDT 2008
+enums/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+replace MISSING_GPS_MASK with SOURCE_GPS_MASK
+    *
+------------------------------------------------------------
+User: heather  Sat Mar 22 21:45:23 PDT 2008
 enums/cmt
 
 Modified Files:
