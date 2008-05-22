@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Wed May 21 21:04:40 PDT 2008
+enums/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+add in filter bit enums as defined in eventFile
+    *
+------------------------------------------------------------
+User: heather  Wed May 21 21:04:40 PDT 2008
 enums/cmt
 
 Modified Files:
