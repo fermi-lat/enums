@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: glastrm  Wed Jul  9 14:13:46 PDT 2008
+GlastRelease-scons/enums
+
+Added Files:
+	SConscript 
+Log Message:
+Added SConscript files to packages
+    *
+------------------------------------------------------------
 TAG
 Tag name: enums-01-01-00, operation: add
 Package: enums
