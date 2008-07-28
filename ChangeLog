@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+TAG
+Tag name: v2r0, operation: mov
+Package: enums
+User: glastrm  Sun Jul 27 20:30:22 2008
+Files:
+  enums/SConscript  1.2
+
+    *
+------------------------------------------------------------
 User: glastrm  Sun Jul 27 20:30:16 PDT 2008
 enums
 
