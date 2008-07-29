@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Tue Jul 29 11:36:13 PDT 2008
+enums/enums
+
+Modified Files:
+	EfcGammaStatus.h 
+Log Message:
+ok, so the goal was to not be disruptive to the GR needed for the pipeline and so need to add some more stuff... getting ugly. Promise to fix this right away.
+    *
+------------------------------------------------------------
 User: usher  Tue Jul 29 11:25:23 PDT 2008
 enums/enums
 
