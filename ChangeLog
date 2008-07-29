@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Tue Jul 29 11:15:03 PDT 2008
+enums/enums
+
+Modified Files:
+	EfcGammaStatus.h 
+Log Message:
+First update for gamma filter bits in B1-1-0... Note that B1-1-0 introduces versioning of the bits, we need to introduce the same scheme here which will be done with the general update of OnboardFilter to handle version switching.
+    *
+------------------------------------------------------------
 TAG
 Tag name: enums-02-00-00, operation: add
 Package: enums
