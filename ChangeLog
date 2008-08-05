@@ -1,4 +1,12 @@
 ------------------------------------------------------------
+User: glastrm  Mon Aug  4 22:31:13 PDT 2008
+enums
+
+Modified Files:
+	SConscript 
+Log Message:
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r2, operation: add
 Package: enums
