@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Mon Aug  4 21:57:58 PDT 2008
+enums/enums
+
+Modified Files:
+	EventFlags.h 
+Log Message:
+add GleamEventFlags
+    *
+------------------------------------------------------------
+User: heather  Mon Aug  4 21:57:58 PDT 2008
 enums/doc
 
 Modified Files:
