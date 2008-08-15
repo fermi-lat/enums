@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: lsrea  Thu Aug 14 21:43:18 PDT 2008
+enums/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Add a bit to GleamEventFlags, 
+  and change the other specifications to hex, for readability
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: enums-02-02-00, operation: add
 Package: enums
