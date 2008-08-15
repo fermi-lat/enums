@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: lsrea  Thu Aug 14 21:43:18 PDT 2008
+enums/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+Add a bit to GleamEventFlags, 
+  and change the other specifications to hex, for readability
+
+    *
+------------------------------------------------------------
+User: lsrea  Thu Aug 14 21:43:18 PDT 2008
 enums/cmt
 
 Modified Files:
