@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: lsrea  Thu Aug 14 21:43:19 PDT 2008
+enums/enums
+
+Modified Files:
+	EventFlags.h 
+Log Message:
+Add a bit to GleamEventFlags, 
+  and change the other specifications to hex, for readability
+
+    *
+------------------------------------------------------------
 User: lsrea  Thu Aug 14 21:43:18 PDT 2008
 enums/doc
 
