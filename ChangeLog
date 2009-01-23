@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+TAG
+Tag name: enums-02-02-01, operation: mov
+Package: enums
+User: glastrm  Thu Jan 22 16:31:24 2009
+Files:
+  enums/SConscript  1.8
+  enums/SConscript  1.8
+  enums/SConscript  1.8
+
+    *
+------------------------------------------------------------
 User: ecephas  Thu Jan 22 16:06:57 PST 2009
 GlastRelease-scons/enums
 
