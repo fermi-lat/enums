@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+TAG
+Tag name: v3r0, operation: mov
+Package: enums
+User: glastrm  Tue Mar 10 21:31:32 2009
+Files:
+  enums/SConscript  1.9
+
+    *
+------------------------------------------------------------
 User: glastrm  Tue Mar 10 21:31:26 PDT 2009
 enums
 
