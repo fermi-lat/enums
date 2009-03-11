@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Tue Mar 10 21:21:19 PDT 2009
+enums/enums
+
+Modified Files:
+	EventFlags.h 
+Log Message:
+add TEMBUG
+    *
+------------------------------------------------------------
+User: heather  Tue Mar 10 21:21:19 PDT 2009
 enums/doc
 
 Modified Files:
