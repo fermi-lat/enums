@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Thu Aug  6 17:00:50 PDT 2009
+GlastRelease-scons/enums
+
+Modified Files:
+	SConscript 
+Log Message:
+Use registerTargets
+
+    *
+------------------------------------------------------------
 User: heather  Wed Jul  1 09:48:10 PDT 2009
 enums/doc
 
