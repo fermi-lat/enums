@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Sep  8 09:49:02 PDT 2009
+enums/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+set TEMBUG to 0x100000 rather than 0x10000 so it is distinct from PHASEERROR
+    *
+------------------------------------------------------------
 User: jrb  Thu Aug  6 17:00:50 PDT 2009
 GlastRelease-scons/enums
 
