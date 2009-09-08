@@ -1,7 +1,7 @@
 # -*- python -*-
-# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/enums/SConscript,v 1.9 2009/03/11 04:31:26 glastrm Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/enums/SConscript,v 1.10 2009/08/07 00:00:50 jrb Exp $
 # Authors: Heather Kelly <heather@milkyway.gsfc.nasa.gov>
-# Version: enums-03-00-00
+# Version: enums-03-00-01
 Import('baseEnv')
 Import('listFiles')
 Import('packages')
