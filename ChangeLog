@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Sep  8 09:49:03 PDT 2009
+enums/enums
+
+Modified Files:
+	EventFlags.h 
+Log Message:
+set TEMBUG to 0x100000 rather than 0x10000 so it is distinct from PHASEERROR
+    *
+------------------------------------------------------------
 User: heather  Tue Sep  8 09:49:02 PDT 2009
 enums/doc
 
