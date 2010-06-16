@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Tue Jun 15 18:39:44 PDT 2010
+GlastRelease-scons/enums
+
+Modified Files:
+	.cvsignore 
+Log Message:
+ignore SCons build products
+    *
+------------------------------------------------------------
 TAG
 Tag name: enums-03-00-01, operation: add
 Package: enums
