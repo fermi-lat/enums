@@ -1,5 +1,19 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-19-03-07, operation: add
+Package: enums
+User: heather  Wed Sep  7 10:20:56 2011
+Files:
+  enums/.cvsignore  1.2
+  enums/ChangeLog  1.171
+  enums/SConscript  1.12
+  enums/cmt/.cvsignore  1.1.1.1
+  enums/cmt/requirements  1.30
+  enums/doc/release.notes  1.33
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-19-03-07, operation: del
 Package: enums
 User: glastrm  Tue Sep  6 14:16:44 2011
